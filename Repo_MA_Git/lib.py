@@ -10,6 +10,9 @@ import datetime
 pd.set_option('display.width', 200)
 
 
+def funcao_para_testar():
+    return "Manuela"
+
 def clean_data(data):
     """ clean data
     """
