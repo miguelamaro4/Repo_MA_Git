@@ -1,0 +1,3 @@
+graft Repo_MA_Git
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  Repo_MA_Git/jupy *
